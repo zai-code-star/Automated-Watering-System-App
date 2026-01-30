@@ -185,7 +185,7 @@ Sistem bekerja dengan membaca data **sensor kelembaban tanah** dan **sensor suhu
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/screenshots/reportfromuser.jpg" width="240"/><br/>
+      <img src="assets/screenshots/reportformuser.jpg" width="240"/><br/>
       <b>Report from User</b>
     </td>
     <td align="center">
