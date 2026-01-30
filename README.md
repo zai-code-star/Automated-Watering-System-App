@@ -127,7 +127,7 @@ Sistem bekerja dengan membaca data **sensor kelembaban tanah** dan **sensor suhu
 
 ### Activity History
 <p align="center">
-  <img src="assets/screenshots/activityhistory.jpg" width="240"/><br/>
+  <img src="assets/screenshots/aktivityhistory.jpg" width="240"/><br/>
   <b>Activity History</b>
 </p>
 
