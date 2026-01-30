@@ -205,20 +205,6 @@ Sistem bekerja dengan membaca data **sensor kelembaban tanah** dan **sensor suhu
 
 ---
 
-## Cara Kerja Sistem
-
-1. ESP8266 membaca data:
-   - Sensor kelembaban tanah
-   - Sensor suhu & kelembapan (DHT22)
-2. Data dikirim ke Firebase
-3. Aplikasi membaca data secara **real-time**
-4. Sistem menentukan aksi penyiraman berdasarkan:
-   - Mode aktif (Auto / Manual / Time / Cycle)
-   - Nilai sensor
-5. Pompa air diaktifkan melalui **relay**
-6. Status pompa dan log penyiraman disimpan ke Firebase untuk di Tampilkan pada Aplikasi
-
----
 
 ## Teknologi yang Digunakan
 
