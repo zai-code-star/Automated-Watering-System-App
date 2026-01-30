@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "490186808009",
+    "firebase_url": "https://automated-watering-syste-d01e4-default-rtdb.firebaseio.com",
+    "project_id": "automated-watering-syste-d01e4",
+    "storage_bucket": "automated-watering-syste-d01e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490186808009:android:587f58885871d7c66e4b18",
+        "android_client_info": {
+          "package_name": "com.example.automated_watering_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GPBtZZQunaxhXEGhUkdKEpt7X4XxtCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490186808009:android:6d72e8c3c226dc406e4b18",
+        "android_client_info": {
+          "package_name": "com.example.autowateringsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GPBtZZQunaxhXEGhUkdKEpt7X4XxtCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490186808009:android:7a568fab7fc85a216e4b18",
+        "android_client_info": {
+          "package_name": "com.example.aws"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GPBtZZQunaxhXEGhUkdKEpt7X4XxtCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

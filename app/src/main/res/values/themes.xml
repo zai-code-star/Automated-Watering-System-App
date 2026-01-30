@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AWS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Status bar color abu-abu transparan -->
+        <item name="android:statusBarColor">#88AAAAAA</item>
+
+        <!-- Gunakan icon terang (karena latar abu-abu gelap) -->
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Jika ingin icon gelap, ubah jadi true -->
+        <!-- <item name="android:windowLightStatusBar">true</item> -->
+    </style>
+
+    <style name="Theme.AWS" parent="Base.Theme.AWS" />
+</resources>
