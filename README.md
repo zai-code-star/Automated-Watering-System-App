@@ -222,6 +222,19 @@ Sistem bekerja dengan membaca data **sensor kelembaban tanah** dan **sensor suhu
   - IoT Communication (WiFi)
 ---
 
+## 📦 Download Aplikasi
+
+---
+
+### 📱 Automated Watering System
+
+<p align="center">
+  👉 <a href="https://drive.google.com/file/d/1ALD7LCZ3URjEGL-j4zGuFJchDAJni__l/view?usp=sharing" target="_blank">
+    <b>Download APK Automated Watering System</b>
+  </a>
+</p>
+
+---
 
 <p align="center">
   🌿 <i>Smart watering for healthier plants</i> 🌿
