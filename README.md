@@ -236,6 +236,15 @@ Sistem bekerja dengan membaca data **sensor kelembaban tanah** dan **sensor suhu
 
 ---
 
+## License
+
+This project is licensed under **All Rights Reserved**.
+
+All source code, assets, and documentation in this repository are the exclusive property of the author.  
+No part of this project may be copied, modified, or used for commercial purposes without explicit permission.
+
+© 2026 Zainul Muhajir
+
 <p align="center">
   🌿 <i>Smart watering for healthier plants</i> 🌿
 </p>
